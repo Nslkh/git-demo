@@ -1,0 +1,2 @@
+Sword and spear
+Wall of shields
