@@ -13,10 +13,10 @@ Version Control with Git. DevTestOps training
 - ```Inside .git folder```
 - ```Undoing changes```
     ...
-    git checkout .
+    git checkout . 
     git clean -xdf
     ...
-- ```Git reset```
+- ```Git reset```  
 - ```Git revert```
 - ```.gitignore```
 - ```Branching and merge```
