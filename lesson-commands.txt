@@ -2,4 +2,4 @@ git reset --soft HEAD~1
 --mixed 
 
 commit from master
-commit from feature
+commit from feature 
