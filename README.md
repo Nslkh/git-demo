@@ -23,4 +23,4 @@ Version Control with Git. DevTestOps training
 - ```Stashing```
 - ```Remotes```
 - ```Branching strategies```
-- ```Extras```
+- ```Extras```  
