@@ -12,8 +12,9 @@ Version Control with Git. DevTestOps training
 - ```Git Gui & gitk```
 - ```Inside .git folder```
 - ```Undoing changes```
-    ...
-    git checkout . 
+
+     ...
+     git checkout . 
     git clean -xdf
     ...
 - ```Git reset```  
