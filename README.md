@@ -14,7 +14,7 @@ Version Control with Git. DevTestOps training
 - ```Undoing changes```
     ...
     git checkout . 
-    git clean -xdf
+    git clean -xdf 
     ...
 - ```Git reset```  
 - ```Git revert```
